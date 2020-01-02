@@ -1,0 +1,782 @@
+[
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_facebook_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_facebook_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory1.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory1.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_facebook_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_facebook_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_share.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\twitter_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monster_drawable.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\monster_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colour_button_on.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colour_button_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body1.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body1.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_text_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face0.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face0.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_share.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\facebook_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colour_button_off.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colour_button_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\description_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\description_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colours_radio_button.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colours_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body2.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body2.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colour_button_off.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colour_button_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_twitter_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_twitter_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\email_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body4.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body4.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face2.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face2.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_share.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\text_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email_share.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\email_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branch250.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\branch250.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face3.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face3.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body3.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body3.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face4.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face4.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body4.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body4.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\text_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_share.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\facebook_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\text_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face4.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face4.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\email_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_email_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_email_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory1.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory1.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory2.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory2.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_share.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\twitter_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_share.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\text_share.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\twitter_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colours_radio_button.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colours_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branchster.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\branchster.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body0.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body0.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\description_background.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\description_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branchster.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\branchster.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colour_button_on.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\colour_button_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monster_drawable.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\monster_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_selector.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up_arrow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branch250.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\branch250.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_text_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face3.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face3.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body3.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body3.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face1.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face1.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\up_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\twitter_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body1.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body1.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face1.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face1.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\facebook_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_email_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_email_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.25.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face0.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face0.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email_share.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\email_share.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body2.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body2.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_twitter_selector.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\share_twitter_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body0.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\body0.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face2.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\face2.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashfactory2.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\splashfactory2.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_pressed.png",
+        "source": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\down_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_pressed.png",
+        "source": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\drawable\\facebook_pressed.png"
+    }
+]
