@@ -13,10 +13,17 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
 
+import java.util.Calendar;
+
 import io.branch.branchster.fragment.InfoFragment;
 import io.branch.branchster.util.MonsterImageView;
 import io.branch.branchster.util.MonsterObject;
 import io.branch.branchster.util.MonsterPreferences;
+import io.branch.indexing.BranchUniversalObject;
+import io.branch.referral.Branch;
+import io.branch.referral.BranchError;
+import io.branch.referral.util.ContentMetadata;
+import io.branch.referral.util.LinkProperties;
 
 public class MonsterViewerActivity extends FragmentActivity implements InfoFragment.OnFragmentInteractionListener {
     static final int SEND_SMS = 12345;
@@ -105,12 +112,42 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
     private void shareMyMonster() {
         progressBar.setVisibility(View.VISIBLE);
 
-        String url = "http://example.com"; // TODO: Replace with Branch-generated shortUrl
 
-        Intent i = new Intent(Intent.ACTION_SEND);
-        i.setType("text/plain");
-        i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", myMonsterObject.getMonsterName(), url));
-        startActivityForResult(i, SEND_SMS);
+
+        BranchUniversalObject buo = new BranchUniversalObject();
+        buo.setCanonicalIdentifier("content/12345")
+                .setTitle("Branch Universal Object Title")
+                .setContentDescription("My Content Description")
+                .setContentImageUrl("https://lorempixel.com/400/400")
+                .setContentIndexingMode(BranchUniversalObject.CONTENT_INDEX_MODE.PUBLIC)
+                .setLocalIndexMode(BranchUniversalObject.CONTENT_INDEX_MODE.PUBLIC)
+                .setContentMetadata(new ContentMetadata().addCustomMetadata("$og_title",myMonsterObject.getMonsterName()));
+
+        LinkProperties lp = new LinkProperties()
+                .setChannel("Android App Channel")
+                .setFeature("sharing")
+                .setCampaign("content 123 launch")
+                .setStage("new user")
+                .addControlParameter("$desktop_url", "2o9nm.app.link")
+                .addControlParameter("custom", "data")
+                .addControlParameter("custom_random", Long.toString(Calendar.getInstance().getTimeInMillis()));
+        buo.generateShortUrl(this, lp, new Branch.BranchLinkCreateListener() {
+            @Override
+            public void onLinkCreate(String url, BranchError error) {
+                if (error == null) {
+                    Intent i = new Intent(Intent.ACTION_SEND);
+                    i.setType("text/plain");
+                    i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", myMonsterObject.getMonsterName(), url));
+                    startActivityForResult(i, SEND_SMS);
+
+                    Log.i("BRANCH SDK", "got my Branch link to share: " + url);
+                }else Log.e(TAG, "onLinkCreate: Error "+ error.getMessage() );
+            }
+        });
+
+
+
+
 
         progressBar.setVisibility(View.GONE);
     }

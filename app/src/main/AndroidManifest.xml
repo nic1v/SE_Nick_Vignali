@@ -15,6 +15,7 @@
     <application
         android:largeHeap="true"
         android:allowBackup="true"
+        android:name="io.branch.referral.BranchApp"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
         <activity
@@ -26,7 +27,9 @@
 
             <!-- Branch URI Scheme -->
             <intent-filter>
-                <data android:scheme="branchsters" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <data android:scheme="branchsters://" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -37,11 +40,22 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="https" android:host="example.app.link" />
-                <data android:scheme="https" android:host="example-alternate.app.link" />
+                <data android:scheme="https" android:host="2o9nm.test-app.link" />
+                <data android:scheme="https" android:host="2o9nm-alternate.app.link" />
             </intent-filter>
 
         </activity>
+        <!-- Branch init -->
+        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_koNUDhNrZS8fyZBNOhxICcinEziTvqPf" />
+        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_ndTMyeNt8LZkt8DPMgVybbmbBroRxyIE" />
+        <meta-data android:name="io.branch.sdk.TestMode" android:value="true" /> <!-- Set to true to use Branch_Test_Key -->
+
+        <!-- Branch install referrer tracking (optional) -->
+        <receiver android:name="io.branch.referral.InstallListener" android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
 
         <activity
             android:name="io.branch.branchster.MonsterViewerActivity"

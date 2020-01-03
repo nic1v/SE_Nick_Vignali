@@ -19,34 +19,33 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Shiriki na:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Shiriki na %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kunja"</string>
-    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Programu inahitaji sasisho kwa programu ya Android Wear."</string>
-    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Programu hii haitaendeshwa usiposasisha programu ya Android Wear."</string>
-    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Sasisha Android Wear"</string>
-    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Wezesha huduma za Google Play"</string>
-    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play."</string>
-    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Wezesha huduma za Google Play"</string>
-    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Imeombwa na <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
-    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Pata huduma za Google Play"</string>
-    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako."</string>
-    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako."</string>
-    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Pata huduma za Google Play"</string>
-    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti."</string>
-    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Akaunti Batili"</string>
-    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Programu inahitaji huduma za Google Play ili iwashwe."</string>
-    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play."</string>
-    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Hitilafu ya Mtandao"</string>
-    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Programu inahitaji usakinishaji wa huduma za Google Play."</string>
-    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Programu inahitaji toleo jipya la huduma za Google Play."</string>
-    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Hitilafu kwenye huduma za Google Play"</string>
-    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Suala lisilojulikana na huduma za Google Play."</string>
-    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi."</string>
-    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Huduma za Google Play"</string>
-    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Sasisha"</string>
-    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play."</string>
-    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Sasisha huduma za Google Play"</string>
-    <string msgid="411506735369601515" name="common_open_on_phone">"Fungua kwenye simu"</string>
-    <string msgid="9071884888741449141" name="common_signin_button_text">"Ingia"</string>
-    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Ingia ukitumia Google"</string>
+    <string msgid="5835639618285370804" name="accept">"Kubali"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Washa"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi isipokuwa uwashe huduma za Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Washa huduma za Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Sakinisha"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pata huduma za Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Hitilafu kwenye huduma za Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Sasisha"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi hadi usasishe huduma za Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Sasisha huduma za Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Fungua kwenye simu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Ingia katika akaunti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Ingia katika akaunti ukitumia Google"</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Ungependa kuruhusu tangazo liunde tukio la kalenda?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Unda tukio la kalenda"</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Maelezo ya Tangazo"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Onyesho la Kuchungulia Faili za Tangazo"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Chagua Hali ya Utatuzi"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Utatuzi"</string>
+    <string msgid="6099173376375995052" name="decline">"Kataa"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Tafuta"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Ungependa kuruhusu tangazo lihifadhi picha katika matunzio ya Picha?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Hifadhi picha"</string>
 </resources>

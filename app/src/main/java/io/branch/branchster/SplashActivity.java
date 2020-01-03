@@ -4,13 +4,21 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import org.json.JSONObject;
+
 import io.branch.branchster.util.MonsterPreferences;
+import io.branch.indexing.BranchUniversalObject;
+import io.branch.referral.Branch;
+import io.branch.referral.BranchError;
+import io.branch.referral.util.ContentMetadata;
+import io.branch.referral.util.LinkProperties;
 
 public class SplashActivity extends Activity {
 
@@ -39,20 +47,31 @@ public class SplashActivity extends Activity {
     @Override
     protected void onStart() {
         super.onStart();
-        // TODO: Initialize Branch session.
 
-        // TODO: If a monster was linked to, open the viewer Activity to that Monster.
+
+        // listener (within Main Activity's onStart)
+        Branch.getInstance().initSession(new Branch.BranchReferralInitListener() {
+            @Override
+            public void onInitFinished(JSONObject referringParams, BranchError error) {
+                if (error == null) {
+                    Log.i("BRANCH SDK", referringParams.toString());
+                } else {
+                    Log.i("BRANCH SDK", error.getMessage());
+                }
+            }
+        }, this.getIntent().getData(), this);
+
+// latest
+        JSONObject sessionParams = Branch.getInstance().getLatestReferringParams();
+
+// first
+        JSONObject installParams = Branch.getInstance().getFirstReferringParams();        // TODO: If a monster was linked to, open the viewer Activity to that Monster.
         proceedToAppTransparent();
     }
 
     @Override
     public void onResume() {
         super.onResume();
-    }
-
-    @Override
-    public void onNewIntent(Intent intent) {
-        this.setIntent(intent);
     }
 
     /**

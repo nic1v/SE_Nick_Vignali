@@ -13,6 +13,10 @@ import io.branch.branchster.util.ColorController;
 import io.branch.branchster.util.MonsterImageView;
 import io.branch.branchster.util.MonsterObject;
 import io.branch.branchster.util.MonsterPreferences;
+import io.branch.indexing.BranchUniversalObject;
+import io.branch.referral.Branch;
+import io.branch.referral.util.BRANCH_STANDARD_EVENT;
+import io.branch.referral.util.BranchEvent;
 
 /**
  * This class is where the user can create their own monster. It is the first that the user sees if
@@ -38,10 +42,17 @@ public class MonsterCreatorActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // Branch logging for debugging
+        Branch.enableDebugMode();
+
+        // Branch object initialization
+        Branch.getAutoInstance(this);
+        new BranchEvent("monster_edit").logEvent(this);
         setContentView(R.layout.activity_monster_creator);
 
         prefs = MonsterPreferences.getInstance(getApplicationContext());
         MonsterObject latestMonsterObj = prefs.getLatestMonsterObj();
+
 
         // Assign UI items to variables for manipulation later on.
         editName = (EditText) findViewById(R.id.editName);

@@ -942,9 +942,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 102,
-                    "endOffset": 203
+                    "endOffset": 153
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -961,9 +961,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 208,
+                    "startOffset": 158,
                     "endColumn": 107,
-                    "endOffset": 311
+                    "endOffset": 261
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -980,9 +980,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 316,
+                    "startOffset": 266,
                     "endColumn": 122,
-                    "endOffset": 434
+                    "endOffset": 384
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -999,9 +999,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 439,
+                    "startOffset": 389,
                     "endColumn": 100,
-                    "endOffset": 535
+                    "endOffset": 485
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1018,9 +1018,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 540,
+                    "startOffset": 490,
                     "endColumn": 109,
-                    "endOffset": 645
+                    "endOffset": 595
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1037,9 +1037,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 650,
+                    "startOffset": 600,
                     "endColumn": 88,
-                    "endOffset": 734
+                    "endOffset": 684
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1056,9 +1056,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 739,
+                    "startOffset": 689,
                     "endColumn": 105,
-                    "endOffset": 840
+                    "endOffset": 790
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1075,9 +1075,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 845,
+                    "startOffset": 795,
                     "endColumn": 114,
-                    "endOffset": 955
+                    "endOffset": 905
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1094,9 +1094,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 960,
+                    "startOffset": 910,
                     "endColumn": 81,
-                    "endOffset": 1037
+                    "endOffset": 987
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1113,9 +1113,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1042,
+                    "startOffset": 992,
                     "endColumn": 80,
-                    "endOffset": 1118
+                    "endOffset": 1068
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1132,9 +1132,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1123,
+                    "startOffset": 1073,
                     "endColumn": 84,
-                    "endOffset": 1203
+                    "endOffset": 1153
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1151,9 +1151,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1208,
+                    "startOffset": 1158,
                     "endColumn": 106,
-                    "endOffset": 1310
+                    "endOffset": 1260
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1170,9 +1170,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1315,
+                    "startOffset": 1265,
                     "endColumn": 106,
-                    "endOffset": 1417
+                    "endOffset": 1367
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1189,9 +1189,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1422,
+                    "startOffset": 1372,
                     "endColumn": 98,
-                    "endOffset": 1516
+                    "endOffset": 1466
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1208,9 +1208,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1521,
+                    "startOffset": 1471,
                     "endColumn": 109,
-                    "endOffset": 1626
+                    "endOffset": 1576
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1227,9 +1227,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1631,
+                    "startOffset": 1581,
                     "endColumn": 106,
-                    "endOffset": 1733
+                    "endOffset": 1683
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1246,9 +1246,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1738,
+                    "startOffset": 1688,
                     "endColumn": 99,
-                    "endOffset": 1833
+                    "endOffset": 1783
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1265,9 +1265,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1838,
+                    "startOffset": 1788,
                     "endColumn": 124,
-                    "endOffset": 1958
+                    "endOffset": 1908
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1284,9 +1284,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1963,
+                    "startOffset": 1913,
                     "endColumn": 98,
-                    "endOffset": 2057
+                    "endOffset": 2007
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1303,541 +1303,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2062,
-                    "endColumn": 153,
-                    "endOffset": 2211
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 153,
-                        "endOffset": 839
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2216,
-                    "endColumn": 146,
-                    "endOffset": 2358
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2739,
-                        "endColumn": 146,
-                        "endOffset": 2881
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2363,
-                    "endColumn": 115,
-                    "endOffset": 2474
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2451,
-                        "endColumn": 115,
-                        "endOffset": 2562
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2479,
-                    "endColumn": 136,
-                    "endOffset": 2611
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2177,
-                        "endColumn": 136,
-                        "endOffset": 2309
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2616,
-                    "endColumn": 168,
-                    "endOffset": 2780
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2008,
-                        "endColumn": 168,
-                        "endOffset": 2172
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2785,
-                    "endColumn": 134,
-                    "endOffset": 2915
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1873,
-                        "endColumn": 134,
-                        "endOffset": 2003
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2920,
-                    "endColumn": 166,
-                    "endOffset": 3082
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1017,
-                        "endColumn": 170,
-                        "endOffset": 1183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3087,
-                    "endColumn": 138,
-                    "endOffset": 3221
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1734,
-                        "endColumn": 138,
-                        "endOffset": 1868
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3226,
-                    "endColumn": 203,
-                    "endOffset": 3425
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1324,
-                        "endColumn": 203,
-                        "endOffset": 1523
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3430,
-                    "endColumn": 205,
-                    "endOffset": 3631
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1528,
-                        "endColumn": 205,
-                        "endOffset": 1729
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3636,
-                    "endColumn": 135,
-                    "endOffset": 3767
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1188,
-                        "endColumn": 135,
-                        "endOffset": 1319
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3772,
-                    "endColumn": 167,
-                    "endOffset": 3935
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3310,
-                        "endColumn": 167,
-                        "endOffset": 3473
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3940,
-                    "endColumn": 124,
-                    "endOffset": 4060
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3185,
-                        "endColumn": 124,
-                        "endOffset": 3305
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4065,
-                    "endColumn": 172,
-                    "endOffset": 4233
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 844,
-                        "endColumn": 172,
-                        "endOffset": 1012
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4238,
-                    "endColumn": 178,
-                    "endOffset": 4412
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3006,
-                        "endColumn": 178,
-                        "endOffset": 3180
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4417,
-                    "endColumn": 119,
-                    "endOffset": 4532
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2886,
-                        "endColumn": 119,
-                        "endOffset": 3001
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 4537,
-                    "endColumn": 190,
-                    "endOffset": 4723
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 313,
-                        "endColumn": 190,
-                        "endOffset": 499
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4728,
-                    "endColumn": 185,
-                    "endOffset": 4909
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 504,
-                        "endColumn": 185,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4914,
-                    "endColumn": 142,
-                    "endOffset": 5052
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 142,
-                        "endOffset": 308
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5057,
-                    "endColumn": 145,
-                    "endOffset": 5198
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3478,
-                        "endColumn": 145,
-                        "endOffset": 3619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5203,
-                    "endColumn": 257,
-                    "endOffset": 5456
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3756,
-                        "endColumn": 257,
-                        "endOffset": 4009
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5461,
-                    "endColumn": 131,
-                    "endOffset": 5588
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3624,
-                        "endColumn": 131,
-                        "endOffset": 3751
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5593,
-                    "endColumn": 108,
-                    "endOffset": 5697
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4014,
-                        "endColumn": 108,
-                        "endOffset": 4118
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 5702,
-                    "endColumn": 171,
-                    "endOffset": 5869
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2567,
-                        "endColumn": 171,
-                        "endOffset": 2734
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 5874,
-                    "endColumn": 136,
-                    "endOffset": 6006
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2314,
-                        "endColumn": 136,
-                        "endOffset": 2446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 6011,
-                    "endColumn": 94,
-                    "endOffset": 6101
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4332,
-                        "endColumn": 94,
-                        "endOffset": 4422
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6106,
-                    "endColumn": 96,
-                    "endOffset": 6198
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4123,
-                        "endColumn": 96,
-                        "endOffset": 4215
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6203,
-                    "endColumn": 111,
-                    "endOffset": 6310
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-hy-rAM\\common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4220,
-                        "endColumn": 111,
-                        "endOffset": 4327
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6315,
+                    "startOffset": 2012,
                     "endColumn": 81,
-                    "endOffset": 6392
+                    "endOffset": 2089
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
@@ -1852,11 +1320,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 6397,
+                    "startOffset": 2094,
                     "endColumn": 100,
-                    "endOffset": 6493
+                    "endOffset": 2190
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-hy-rAM\\values-hy-rAM.xml",

@@ -1304,17 +1304,17 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2097,
-                    "endColumn": 192,
-                    "endOffset": 2285
+                    "endColumn": 72,
+                    "endOffset": 2165
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 684,
-                        "endColumn": 192,
-                        "endOffset": 872
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 68,
+                        "endOffset": 305
                     }
                 }
             },
@@ -1322,18 +1322,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2290,
-                    "endColumn": 156,
-                    "endOffset": 2442
+                    "startOffset": 2170,
+                    "endColumn": 108,
+                    "endOffset": 2274
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2707,
-                        "endColumn": 156,
-                        "endOffset": 2859
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 104,
+                        "endOffset": 387
                     }
                 }
             },
@@ -1341,18 +1341,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2447,
-                    "endColumn": 117,
-                    "endOffset": 2560
+                    "startOffset": 2279,
+                    "endColumn": 192,
+                    "endOffset": 2467
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2428,
-                        "endColumn": 117,
-                        "endOffset": 2541
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 388,
+                        "endColumn": 192,
+                        "endOffset": 580
                     }
                 }
             },
@@ -1360,18 +1360,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2565,
-                    "endColumn": 133,
-                    "endOffset": 2694
+                    "startOffset": 2472,
+                    "endColumn": 134,
+                    "endOffset": 2602
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2157,
-                        "endColumn": 133,
-                        "endOffset": 2286
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 581,
+                        "endColumn": 130,
+                        "endOffset": 711
                     }
                 }
             },
@@ -1379,18 +1379,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2699,
-                    "endColumn": 161,
-                    "endOffset": 2856
+                    "startOffset": 2607,
+                    "endColumn": 109,
+                    "endOffset": 2712
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1995,
-                        "endColumn": 161,
-                        "endOffset": 2152
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 712,
+                        "endColumn": 105,
+                        "endOffset": 817
                     }
                 }
             },
@@ -1398,18 +1398,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2861,
-                    "endColumn": 133,
-                    "endOffset": 2990
+                    "startOffset": 2717,
+                    "endColumn": 200,
+                    "endOffset": 2913
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1861,
-                        "endColumn": 133,
-                        "endOffset": 1990
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 818,
+                        "endColumn": 200,
+                        "endOffset": 1018
                     }
                 }
             },
@@ -1417,18 +1417,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2995,
-                    "endColumn": 181,
-                    "endOffset": 3172
+                    "startOffset": 2918,
+                    "endColumn": 132,
+                    "endOffset": 3046
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1051,
-                        "endColumn": 185,
-                        "endOffset": 1232
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1019,
+                        "endColumn": 128,
+                        "endOffset": 1147
                     }
                 }
             },
@@ -1436,18 +1436,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3177,
-                    "endColumn": 131,
-                    "endOffset": 3304
+                    "startOffset": 3051,
+                    "endColumn": 134,
+                    "endOffset": 3181
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1729,
-                        "endColumn": 131,
-                        "endOffset": 1856
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1148,
+                        "endColumn": 130,
+                        "endOffset": 1278
                     }
                 }
             },
@@ -1455,18 +1455,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3309,
-                    "endColumn": 176,
-                    "endOffset": 3481
+                    "startOffset": 3186,
+                    "endColumn": 224,
+                    "endOffset": 3406
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1368,
-                        "endColumn": 176,
-                        "endOffset": 1540
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 224,
+                        "endOffset": 509
                     }
                 }
             },
@@ -1474,18 +1474,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3486,
-                    "endColumn": 183,
-                    "endOffset": 3665
+                    "startOffset": 3411,
+                    "endColumn": 233,
+                    "endOffset": 3640
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
                         "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1545,
-                        "endColumn": 183,
-                        "endOffset": 1724
+                        "startColumn": 0,
+                        "startOffset": 1279,
+                        "endColumn": 233,
+                        "endOffset": 1512
                     }
                 }
             },
@@ -1493,18 +1493,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3670,
-                    "endColumn": 130,
-                    "endOffset": 3796
+                    "startOffset": 3645,
+                    "endColumn": 110,
+                    "endOffset": 3751
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1237,
-                        "endColumn": 130,
-                        "endOffset": 1363
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1513,
+                        "endColumn": 106,
+                        "endOffset": 1619
                     }
                 }
             },
@@ -1512,18 +1512,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3801,
-                    "endColumn": 176,
-                    "endOffset": 3973
+                    "startOffset": 3756,
+                    "endColumn": 199,
+                    "endOffset": 3951
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3300,
-                        "endColumn": 176,
-                        "endOffset": 3472
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1620,
+                        "endColumn": 199,
+                        "endOffset": 1819
                     }
                 }
             },
@@ -1531,18 +1531,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3978,
-                    "endColumn": 122,
-                    "endOffset": 4096
+                    "startOffset": 3956,
+                    "endColumn": 136,
+                    "endOffset": 4088
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3177,
-                        "endColumn": 122,
-                        "endOffset": 3295
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1820,
+                        "endColumn": 132,
+                        "endOffset": 1952
                     }
                 }
             },
@@ -1550,18 +1550,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4101,
-                    "endColumn": 173,
-                    "endOffset": 4270
+                    "startOffset": 4093,
+                    "endColumn": 227,
+                    "endOffset": 4316
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 877,
-                        "endColumn": 173,
-                        "endOffset": 1046
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1953,
+                        "endColumn": 227,
+                        "endOffset": 2180
                     }
                 }
             },
@@ -1569,18 +1569,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4275,
-                    "endColumn": 194,
-                    "endOffset": 4465
+                    "startOffset": 4321,
+                    "endColumn": 184,
+                    "endOffset": 4501
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2982,
-                        "endColumn": 194,
-                        "endOffset": 3172
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2181,
+                        "endColumn": 180,
+                        "endOffset": 2361
                     }
                 }
             },
@@ -1588,18 +1588,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4470,
-                    "endColumn": 117,
-                    "endOffset": 4583
+                    "startOffset": 4506,
+                    "endColumn": 93,
+                    "endOffset": 4595
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2864,
-                        "endColumn": 117,
-                        "endOffset": 2977
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2362,
+                        "endColumn": 89,
+                        "endOffset": 2451
                     }
                 }
             },
@@ -1607,18 +1607,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4588,
-                    "endColumn": 190,
-                    "endOffset": 4774
+                    "startOffset": 4600,
+                    "endColumn": 97,
+                    "endOffset": 4693
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 306,
-                        "endColumn": 190,
-                        "endOffset": 492
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2452,
+                        "endColumn": 93,
+                        "endOffset": 2545
                     }
                 }
             },
@@ -1626,18 +1626,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4779,
-                    "endColumn": 186,
-                    "endOffset": 4961
+                    "startOffset": 4698,
+                    "endColumn": 117,
+                    "endOffset": 4811
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 497,
-                        "endColumn": 186,
-                        "endOffset": 679
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2546,
+                        "endColumn": 113,
+                        "endOffset": 2659
                     }
                 }
             },
@@ -1645,18 +1645,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4966,
-                    "endColumn": 135,
-                    "endOffset": 5097
+                    "startOffset": 4816,
+                    "endColumn": 130,
+                    "endOffset": 4942
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 135,
-                        "endOffset": 301
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 306,
+                        "endColumn": 126,
+                        "endOffset": 432
                     }
                 }
             },
@@ -1664,18 +1664,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5102,
-                    "endColumn": 147,
-                    "endOffset": 5245
+                    "startOffset": 4947,
+                    "endColumn": 106,
+                    "endOffset": 5049
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3477,
-                        "endColumn": 147,
-                        "endOffset": 3620
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 433,
+                        "endColumn": 102,
+                        "endOffset": 535
                     }
                 }
             },
@@ -1683,18 +1683,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5250,
-                    "endColumn": 262,
-                    "endOffset": 5508
+                    "startOffset": 5054,
+                    "endColumn": 104,
+                    "endOffset": 5154
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3753,
-                        "endColumn": 262,
-                        "endOffset": 4011
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 536,
+                        "endColumn": 100,
+                        "endOffset": 636
                     }
                 }
             },
@@ -1702,18 +1702,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5513,
-                    "endColumn": 127,
-                    "endOffset": 5636
+                    "startOffset": 5159,
+                    "endColumn": 110,
+                    "endOffset": 5265
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3625,
-                        "endColumn": 127,
-                        "endOffset": 3748
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 637,
+                        "endColumn": 106,
+                        "endOffset": 743
                     }
                 }
             },
@@ -1721,18 +1721,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5641,
-                    "endColumn": 110,
-                    "endOffset": 5747
+                    "startOffset": 5270,
+                    "endColumn": 105,
+                    "endOffset": 5371
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4016,
-                        "endColumn": 110,
-                        "endOffset": 4122
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 744,
+                        "endColumn": 101,
+                        "endOffset": 845
                     }
                 }
             },
@@ -1740,18 +1740,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5752,
-                    "endColumn": 160,
-                    "endOffset": 5908
+                    "startOffset": 5376,
+                    "endColumn": 103,
+                    "endOffset": 5475
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2546,
-                        "endColumn": 160,
-                        "endOffset": 2702
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 846,
+                        "endColumn": 99,
+                        "endOffset": 945
                     }
                 }
             },
@@ -1759,18 +1759,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 5913,
-                    "endColumn": 136,
-                    "endOffset": 6045
+                    "startOffset": 5480,
+                    "endColumn": 74,
+                    "endOffset": 5550
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
                     "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2291,
-                        "endColumn": 136,
-                        "endOffset": 2423
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 946,
+                        "endColumn": 70,
+                        "endOffset": 1016
                     }
                 }
             },
@@ -1778,66 +1778,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6050,
-                    "endColumn": 92,
-                    "endOffset": 6138
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4331,
-                        "endColumn": 92,
-                        "endOffset": 4419
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6143,
-                    "endColumn": 93,
-                    "endOffset": 6232
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4127,
-                        "endColumn": 93,
-                        "endOffset": 4216
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6237,
-                    "endColumn": 109,
-                    "endOffset": 6342
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-lv\\common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4221,
-                        "endColumn": 109,
-                        "endOffset": 4326
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6347,
+                    "startOffset": 5555,
                     "endColumn": 81,
-                    "endOffset": 6424
+                    "endOffset": 5632
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-lv\\values-lv.xml",
@@ -1852,11 +1795,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6429,
+                    "startOffset": 5637,
                     "endColumn": 100,
-                    "endOffset": 6525
+                    "endOffset": 5733
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-lv\\values-lv.xml",
@@ -1866,6 +1809,44 @@
                         "startOffset": 2129,
                         "endColumn": 100,
                         "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5738,
+                    "endColumn": 125,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1017,
+                        "endColumn": 121,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 96,
+                    "endOffset": 5956
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-lv\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1139,
+                        "endColumn": 92,
+                        "endOffset": 1231
                     }
                 }
             }

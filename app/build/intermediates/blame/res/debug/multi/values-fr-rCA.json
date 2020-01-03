@@ -1304,17 +1304,17 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2131,
-                    "endColumn": 166,
-                    "endOffset": 2293
+                    "endColumn": 73,
+                    "endOffset": 2200
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 687,
-                        "endColumn": 166,
-                        "endOffset": 849
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 241,
+                        "endColumn": 69,
+                        "endOffset": 310
                     }
                 }
             },
@@ -1322,18 +1322,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2298,
-                    "endColumn": 194,
-                    "endOffset": 2488
+                    "startOffset": 2205,
+                    "endColumn": 107,
+                    "endOffset": 2308
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2825,
-                        "endColumn": 194,
-                        "endOffset": 3015
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 287,
+                        "endColumn": 103,
+                        "endOffset": 390
                     }
                 }
             },
@@ -1341,18 +1341,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2493,
-                    "endColumn": 117,
-                    "endOffset": 2606
+                    "startOffset": 2313,
+                    "endColumn": 211,
+                    "endOffset": 2520
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2508,
-                        "endColumn": 117,
-                        "endOffset": 2621
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 391,
+                        "endColumn": 211,
+                        "endOffset": 602
                     }
                 }
             },
@@ -1360,18 +1360,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2611,
-                    "endColumn": 132,
-                    "endOffset": 2739
+                    "startOffset": 2525,
+                    "endColumn": 131,
+                    "endOffset": 2652
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2237,
-                        "endColumn": 132,
-                        "endOffset": 2365
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 603,
+                        "endColumn": 127,
+                        "endOffset": 730
                     }
                 }
             },
@@ -1379,18 +1379,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2744,
-                    "endColumn": 195,
-                    "endOffset": 2935
+                    "startOffset": 2657,
+                    "endColumn": 110,
+                    "endOffset": 2763
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2041,
-                        "endColumn": 195,
-                        "endOffset": 2232
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 731,
+                        "endColumn": 106,
+                        "endOffset": 837
                     }
                 }
             },
@@ -1398,18 +1398,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2940,
-                    "endColumn": 130,
-                    "endOffset": 3066
+                    "startOffset": 2768,
+                    "endColumn": 229,
+                    "endOffset": 2993
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1910,
-                        "endColumn": 130,
-                        "endOffset": 2036
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 838,
+                        "endColumn": 229,
+                        "endOffset": 1067
                     }
                 }
             },
@@ -1417,18 +1417,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3071,
-                    "endColumn": 168,
-                    "endOffset": 3235
+                    "startOffset": 2998,
+                    "endColumn": 134,
+                    "endOffset": 3128
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1026,
-                        "endColumn": 172,
-                        "endOffset": 1194
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1068,
+                        "endColumn": 130,
+                        "endOffset": 1198
                     }
                 }
             },
@@ -1436,18 +1436,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3240,
-                    "endColumn": 135,
-                    "endOffset": 3371
+                    "startOffset": 3133,
+                    "endColumn": 141,
+                    "endOffset": 3270
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1774,
-                        "endColumn": 135,
-                        "endOffset": 1905
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1199,
+                        "endColumn": 137,
+                        "endOffset": 1336
                     }
                 }
             },
@@ -1455,18 +1455,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3376,
-                    "endColumn": 220,
-                    "endOffset": 3592
+                    "startOffset": 3275,
+                    "endColumn": 219,
+                    "endOffset": 3490
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1332,
-                        "endColumn": 220,
-                        "endOffset": 1548
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 219,
+                        "endOffset": 508
                     }
                 }
             },
@@ -1474,18 +1474,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3597,
-                    "endColumn": 220,
-                    "endOffset": 3813
+                    "startOffset": 3495,
+                    "endColumn": 253,
+                    "endOffset": 3744
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1553,
-                        "endColumn": 220,
-                        "endOffset": 1769
+                        "startColumn": 0,
+                        "startOffset": 1337,
+                        "endColumn": 253,
+                        "endOffset": 1590
                     }
                 }
             },
@@ -1493,18 +1493,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3818,
-                    "endColumn": 132,
-                    "endOffset": 3946
+                    "startOffset": 3749,
+                    "endColumn": 113,
+                    "endOffset": 3858
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1199,
-                        "endColumn": 132,
-                        "endOffset": 1327
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1591,
+                        "endColumn": 109,
+                        "endOffset": 1700
                     }
                 }
             },
@@ -1512,18 +1512,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3951,
-                    "endColumn": 195,
-                    "endOffset": 4142
+                    "startOffset": 3863,
+                    "endColumn": 215,
+                    "endOffset": 4074
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3455,
-                        "endColumn": 195,
-                        "endOffset": 3646
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1701,
+                        "endColumn": 215,
+                        "endOffset": 1916
                     }
                 }
             },
@@ -1531,18 +1531,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4147,
-                    "endColumn": 121,
-                    "endOffset": 4264
+                    "startOffset": 4079,
+                    "endColumn": 137,
+                    "endOffset": 4212
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3333,
-                        "endColumn": 121,
-                        "endOffset": 3450
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1917,
+                        "endColumn": 133,
+                        "endOffset": 2050
                     }
                 }
             },
@@ -1550,18 +1550,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4269,
-                    "endColumn": 171,
-                    "endOffset": 4436
+                    "startOffset": 4217,
+                    "endColumn": 218,
+                    "endOffset": 4431
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 854,
-                        "endColumn": 171,
-                        "endOffset": 1021
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 2051,
+                        "endColumn": 218,
+                        "endOffset": 2269
                     }
                 }
             },
@@ -1569,18 +1569,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4441,
-                    "endColumn": 192,
-                    "endOffset": 4629
+                    "startOffset": 4436,
+                    "endColumn": 208,
+                    "endOffset": 4640
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3140,
-                        "endColumn": 192,
-                        "endOffset": 3328
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2270,
+                        "endColumn": 204,
+                        "endOffset": 2474
                     }
                 }
             },
@@ -1588,18 +1588,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4634,
-                    "endColumn": 119,
-                    "endOffset": 4749
+                    "startOffset": 4645,
+                    "endColumn": 102,
+                    "endOffset": 4743
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 3020,
-                        "endColumn": 119,
-                        "endOffset": 3135
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2475,
+                        "endColumn": 98,
+                        "endOffset": 2573
                     }
                 }
             },
@@ -1607,18 +1607,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4754,
-                    "endColumn": 189,
-                    "endOffset": 4939
+                    "startOffset": 4748,
+                    "endColumn": 93,
+                    "endOffset": 4837
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 313,
-                        "endColumn": 189,
-                        "endOffset": 498
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2574,
+                        "endColumn": 89,
+                        "endOffset": 2663
                     }
                 }
             },
@@ -1626,18 +1626,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4944,
-                    "endColumn": 183,
-                    "endOffset": 5123
+                    "startOffset": 4842,
+                    "endColumn": 112,
+                    "endOffset": 4950
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 503,
-                        "endColumn": 183,
-                        "endOffset": 682
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2664,
+                        "endColumn": 108,
+                        "endOffset": 2772
                     }
                 }
             },
@@ -1645,18 +1645,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5128,
-                    "endColumn": 142,
-                    "endOffset": 5266
+                    "startOffset": 4955,
+                    "endColumn": 139,
+                    "endOffset": 5090
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 142,
-                        "endOffset": 308
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 311,
+                        "endColumn": 135,
+                        "endOffset": 446
                     }
                 }
             },
@@ -1664,18 +1664,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5271,
-                    "endColumn": 147,
-                    "endOffset": 5414
+                    "startOffset": 5095,
+                    "endColumn": 113,
+                    "endOffset": 5204
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3651,
-                        "endColumn": 147,
-                        "endOffset": 3794
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 447,
+                        "endColumn": 109,
+                        "endOffset": 556
                     }
                 }
             },
@@ -1683,18 +1683,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5419,
-                    "endColumn": 276,
-                    "endOffset": 5691
+                    "startOffset": 5209,
+                    "endColumn": 105,
+                    "endOffset": 5310
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3924,
-                        "endColumn": 276,
-                        "endOffset": 4196
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 557,
+                        "endColumn": 101,
+                        "endOffset": 658
                     }
                 }
             },
@@ -1702,18 +1702,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5696,
-                    "endColumn": 124,
-                    "endOffset": 5816
+                    "startOffset": 5315,
+                    "endColumn": 100,
+                    "endOffset": 5411
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3799,
-                        "endColumn": 124,
-                        "endOffset": 3919
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 659,
+                        "endColumn": 96,
+                        "endOffset": 755
                     }
                 }
             },
@@ -1721,18 +1721,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5821,
-                    "endColumn": 113,
-                    "endOffset": 5930
+                    "startOffset": 5416,
+                    "endColumn": 107,
+                    "endOffset": 5519
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4201,
-                        "endColumn": 113,
-                        "endOffset": 4310
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 756,
+                        "endColumn": 103,
+                        "endOffset": 859
                     }
                 }
             },
@@ -1740,18 +1740,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5935,
-                    "endColumn": 198,
-                    "endOffset": 6129
+                    "startOffset": 5524,
+                    "endColumn": 94,
+                    "endOffset": 5614
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2626,
-                        "endColumn": 198,
-                        "endOffset": 2820
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 860,
+                        "endColumn": 90,
+                        "endOffset": 950
                     }
                 }
             },
@@ -1759,18 +1759,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6134,
-                    "endColumn": 137,
-                    "endOffset": 6267
+                    "startOffset": 5619,
+                    "endColumn": 73,
+                    "endOffset": 5688
                 },
                 "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
                     "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2370,
-                        "endColumn": 137,
-                        "endOffset": 2503
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 951,
+                        "endColumn": 69,
+                        "endOffset": 1020
                     }
                 }
             },
@@ -1778,66 +1778,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6272,
-                    "endColumn": 101,
-                    "endOffset": 6369
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4522,
-                        "endColumn": 101,
-                        "endOffset": 4619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6374,
-                    "endColumn": 93,
-                    "endOffset": 6463
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4315,
-                        "endColumn": 93,
-                        "endOffset": 4404
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6468,
-                    "endColumn": 112,
-                    "endOffset": 6576
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\values-fr-rCA\\common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4409,
-                        "endColumn": 112,
-                        "endOffset": 4517
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6581,
+                    "startOffset": 5693,
                     "endColumn": 85,
-                    "endOffset": 6662
+                    "endOffset": 5774
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -1852,11 +1795,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6667,
+                    "startOffset": 5779,
                     "endColumn": 100,
-                    "endOffset": 6763
+                    "endOffset": 5875
                 },
                 "from": {
                     "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -1866,6 +1809,44 @@
                         "startOffset": 2167,
                         "endColumn": 100,
                         "endOffset": 2263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5880,
+                    "endColumn": 145,
+                    "endOffset": 6021
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1021,
+                        "endColumn": 141,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6026,
+                    "endColumn": 98,
+                    "endOffset": 6120
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\9.8.0\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1163,
+                        "endColumn": 94,
+                        "endOffset": 1257
                     }
                 }
             }

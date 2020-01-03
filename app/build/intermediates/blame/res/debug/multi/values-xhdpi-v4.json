@@ -1,86 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 89,
-                        "endColumn": 57,
-                        "endOffset": 142
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 113,
-                    "endColumn": 55,
-                    "endOffset": 164
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 147,
-                        "endColumn": 55,
-                        "endOffset": 198
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 169,
-                    "endColumn": 59,
-                    "endOffset": 224
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 304,
-                        "endColumn": 59,
-                        "endOffset": 359
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 229,
-                    "endColumn": 45,
-                    "endOffset": 270
-                },
-                "from": {
-                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 364,
-                        "endColumn": 45,
-                        "endOffset": 405
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
         "map": [
             {
@@ -150,6 +69,87 @@
                 },
                 "from": {
                     "file": "C:\\Users\\marshall\\Dropbox\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 45,
+                        "endOffset": 405
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 59,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\nicvi\\Downloads\\Branchster-Android-No-SDK\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,

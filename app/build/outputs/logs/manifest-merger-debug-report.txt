@@ -1,8 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:5:5-32
 		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
@@ -15,7 +17,243 @@ ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\Andro
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:18:5-42
+MERGED from [io.branch.sdk.android:library:4.2.1] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\io.branch.sdk.android\library\4.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
@@ -118,10 +356,15 @@ MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads
 		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:19:5-66
 	android:name
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -133,8 +376,242 @@ ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:13:22-77
 application
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:15:5-57:19
-MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:20:5-24:19
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:15:5-76:19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
@@ -233,82 +710,167 @@ MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads
 MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:20:9-41
 	android:allowBackup
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:17:9-35
 	android:icon
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:18:9-45
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:19:9-45
 	android:largeHeap
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:18:9-52
 activity#io.branch.branchster.SplashActivity
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:20:9-39:20
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:21:9-47:20
 	android:screenOrientation
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:24:13-49
 	android:label
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:23:13-45
 	android:launchMode
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:25:13-44
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:26:13-44
 	android:theme
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:24:13-53
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:25:13-53
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:21:13-63
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:27:13-30:29
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:22:13-63
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:29:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:30:17-68
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:29:27-74
-intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:32:13-37:26
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:31:27-74
 data
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:33:17-54
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:32:17-57
 	android:scheme
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:33:23-51
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:32:23-54
 action#android.intent.action.VIEW
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:34:14-66
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:34:22-63
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:14-73
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:24-70
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:34:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:36:14-75
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:17-78
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:36:24-72
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:27-75
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:39:13-45:29
+	android:autoVerify
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:39:28-53
+meta-data#io.branch.sdk.BranchKey
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:49:9-119
+	android:value
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:49:59-116
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:49:20-58
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:9-124
+	android:value
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:64-121
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:20-63
+meta-data#io.branch.sdk.TestMode
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:9-81
+	android:value
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:58-78
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:20-57
+receiver#io.branch.referral.InstallListener
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:exported
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:54:69-92
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:54:19-68
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:55:13-57:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:56:25-76
 activity#io.branch.branchster.MonsterViewerActivity
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:41:9-46:20
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:60:9-65:20
 	android:screenOrientation
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:45:13-49
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:64:13-49
 	android:launchMode
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:44:13-48
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:63:13-48
 	android:theme
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:62:13-49
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:42:13-70
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:61:13-70
 activity#io.branch.branchster.MonsterCreatorActivity
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:48:9-53:20
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:67:9-72:20
 	android:screenOrientation
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:52:13-49
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:71:13-49
 	android:launchMode
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:13-48
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:70:13-48
 	android:theme
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:13-49
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:69:13-49
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:49:13-71
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:68:13-71
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:55:9-107
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:74:9-107
 	android:value
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:55:66-105
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:74:66-105
 	android:name
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:55:20-65
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:74:20-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services:6.5.87] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:20-65
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:79-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:19-91
