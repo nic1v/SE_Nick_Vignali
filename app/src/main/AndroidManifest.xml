@@ -40,7 +40,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="https" android:host="2o9nm.test-app.link" />
+                <data android:scheme="https" android:host="2o9nm.app.link" />
                 <data android:scheme="https" android:host="2o9nm-alternate.app.link" />
             </intent-filter>
 
@@ -48,7 +48,7 @@
         <!-- Branch init -->
         <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_koNUDhNrZS8fyZBNOhxICcinEziTvqPf" />
         <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_ndTMyeNt8LZkt8DPMgVybbmbBroRxyIE" />
-        <meta-data android:name="io.branch.sdk.TestMode" android:value="true" /> <!-- Set to true to use Branch_Test_Key -->
+        <meta-data android:name="io.branch.sdk.TestMode" android:value="false" /> <!-- Set to true to use Branch_Test_Key -->
 
         <!-- Branch install referrer tracking (optional) -->
         <receiver android:name="io.branch.referral.InstallListener" android:exported="true">

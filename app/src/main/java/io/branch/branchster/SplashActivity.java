@@ -3,6 +3,7 @@ package io.branch.branchster;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -11,17 +12,17 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import io.branch.branchster.util.MonsterPreferences;
-import io.branch.indexing.BranchUniversalObject;
 import io.branch.referral.Branch;
 import io.branch.referral.BranchError;
-import io.branch.referral.util.ContentMetadata;
-import io.branch.referral.util.LinkProperties;
 
 public class SplashActivity extends Activity {
 
+
+    JSONObject mReferringParams;
     TextView txtLoading;
     int messageIndex;
     private static final String TAG = "SplashActivity";
@@ -53,8 +54,18 @@ public class SplashActivity extends Activity {
         Branch.getInstance().initSession(new Branch.BranchReferralInitListener() {
             @Override
             public void onInitFinished(JSONObject referringParams, BranchError error) {
+                SharedPreferences preferences = getSharedPreferences("MyPreferences", Context.MODE_PRIVATE);
+
                 if (error == null) {
-                    Log.i("BRANCH SDK", referringParams.toString());
+                    mReferringParams = referringParams;
+                    Log.i("BRANCH SDK REFERRING", referringParams.toString());
+                    SharedPreferences.Editor editor = preferences.edit();
+                    try {
+                        editor.putString("branchData", referringParams.toString(2));
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                    editor.apply();
                 } else {
                     Log.i("BRANCH SDK", error.getMessage());
                 }
@@ -64,8 +75,11 @@ public class SplashActivity extends Activity {
 // latest
         JSONObject sessionParams = Branch.getInstance().getLatestReferringParams();
 
+        Log.e(TAG, "onStart: PRINT JSON "+sessionParams.toString() );
 // first
-        JSONObject installParams = Branch.getInstance().getFirstReferringParams();        // TODO: If a monster was linked to, open the viewer Activity to that Monster.
+        JSONObject installParams = Branch.getInstance().getFirstReferringParams();
+        Log.e(TAG, "onStart: PRINT JSON "+installParams.toString() );
+// TODO: If a monster was linked to, open the viewer Activity to that Monster.
         proceedToAppTransparent();
     }
 

@@ -5,6 +5,7 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.text.TextUtils;
@@ -14,6 +15,7 @@ import android.view.View.OnClickListener;
 import android.widget.TextView;
 
 import java.util.Calendar;
+import java.util.concurrent.ExecutionException;
 
 import io.branch.branchster.fragment.InfoFragment;
 import io.branch.branchster.util.MonsterImageView;
@@ -22,6 +24,8 @@ import io.branch.branchster.util.MonsterPreferences;
 import io.branch.indexing.BranchUniversalObject;
 import io.branch.referral.Branch;
 import io.branch.referral.BranchError;
+import io.branch.referral.util.BRANCH_STANDARD_EVENT;
+import io.branch.referral.util.BranchEvent;
 import io.branch.referral.util.ContentMetadata;
 import io.branch.referral.util.LinkProperties;
 
@@ -36,6 +40,13 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
 
     MonsterImageView monsterImageView_;
     MonsterObject myMonsterObject;
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        new BranchEvent("monster_view").logEvent(this);
+
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -79,10 +90,22 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
     }
 
     private void initUI() {
+
         myMonsterObject = getIntent().getParcelableExtra(MY_MONSTER_OBJ_KEY);
+        BackgroundTask backgroundTask = new BackgroundTask(this);
 
         if (myMonsterObject != null) {
-            String monsterName = getString(R.string.monster_name);
+
+            try {
+                setUrlText(backgroundTask.execute(myMonsterObject).get());
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            } catch (ExecutionException e) {
+                e.printStackTrace();
+            }
+
+            Log.e(TAG, "initUI: INSIDE TRY" );
+            String monsterName = myMonsterObject.getMonsterName();
 
             if (!TextUtils.isEmpty(myMonsterObject.getMonsterName())) {
                 monsterName = myMonsterObject.getMonsterName();
@@ -100,6 +123,7 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
             // set my monster image
             monsterImageView_.setMonster(myMonsterObject);
 
+
             progressBar.setVisibility(View.GONE);
         } else {
             Log.e(TAG, "Monster is null. Unable to view monster");
@@ -112,19 +136,23 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
     private void shareMyMonster() {
         progressBar.setVisibility(View.VISIBLE);
 
+        final MonsterPreferences prefs = MonsterPreferences.getInstance(getApplicationContext());
 
 
-        BranchUniversalObject buo = new BranchUniversalObject();
+
+        myMonsterObject.prepareBranchDict();
+
+        final BranchUniversalObject buo = new BranchUniversalObject();
         buo.setCanonicalIdentifier("content/12345")
                 .setTitle("Branch Universal Object Title")
                 .setContentDescription("My Content Description")
                 .setContentImageUrl("https://lorempixel.com/400/400")
                 .setContentIndexingMode(BranchUniversalObject.CONTENT_INDEX_MODE.PUBLIC)
                 .setLocalIndexMode(BranchUniversalObject.CONTENT_INDEX_MODE.PUBLIC)
-                .setContentMetadata(new ContentMetadata().addCustomMetadata("$og_title",myMonsterObject.getMonsterName()));
+                .setContentMetadata(new ContentMetadata().addCustomMetadata(MonsterPreferences.KEY_MONSTER_NAME,prefs.getMonsterName()).addCustomMetadata(MonsterPreferences.KEY_BODY_INDEX,prefs.getBodyIndex()+"").addCustomMetadata(MonsterPreferences.KEY_COLOR_INDEX, prefs.getColorIndex()+"").addCustomMetadata(MonsterPreferences.KEY_FACE_INDEX,prefs.getFaceIndex()+"").addCustomMetadata(MonsterPreferences.KEY_MONSTER_DESCRIPTION,prefs.getMonsterDescription()) );
 
         LinkProperties lp = new LinkProperties()
-                .setChannel("Android App Channel")
+                .setChannel("sms")
                 .setFeature("sharing")
                 .setCampaign("content 123 launch")
                 .setStage("new user")
@@ -137,9 +165,11 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
                 if (error == null) {
                     Intent i = new Intent(Intent.ACTION_SEND);
                     i.setType("text/plain");
-                    i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", myMonsterObject.getMonsterName(), url));
+                    i.putExtra("branchsterData",buo.getMetadata());
+                    i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", prefs.getMonsterName(), url));
                     startActivityForResult(i, SEND_SMS);
 
+                    monsterUrl.setText(url);
                     Log.i("BRANCH SDK", "got my Branch link to share: " + url);
                 }else Log.e(TAG, "onLinkCreate: Error "+ error.getMessage() );
             }
@@ -155,6 +185,7 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (SEND_SMS == requestCode) {
             if (RESULT_OK == resultCode) {
+                new BranchEvent(BRANCH_STANDARD_EVENT.SHARE).logEvent(this);
                 // TODO: Track successful share via Branch.
             }
         }
@@ -189,6 +220,14 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
     protected void onNewIntent(Intent intent) {
         super.onNewIntent(intent);
         setIntent(intent);
+        new BranchEvent("monster_view").logEvent(this);
+       // Log.e(TAG, "onNewIntent: META DATA " + myMonsterObject.monsterMetaData().toString() );
         initUI();
     }
+    public TextView setUrlText(String url){
+
+        monsterUrl.setText(url);
+        return this.monsterUrl;
+    }
 }
+

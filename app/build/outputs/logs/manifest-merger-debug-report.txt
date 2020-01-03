@@ -774,9 +774,9 @@ ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:20-63
 meta-data#io.branch.sdk.TestMode
-ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:9-81
+ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:9-82
 	android:value
-		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:58-78
+		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:58-79
 	android:name
 		ADDED from C:\Users\nicvi\Downloads\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:51:20-57
 receiver#io.branch.referral.InstallListener
